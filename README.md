@@ -11,8 +11,8 @@ This full day workshop features assets from the retail game Antigraviator (by Cy
 
 **Documentation (Do NOT Share)**
 
-[HowTo Video](https://www.dropbox.com/s/jqsemshgdc6p2wg/Hover%20Racer%20HowTo.mp4?dl=0)  
-[Learning Cycle PPT](https://drive.google.com/open?id=1nFg7q55YH33qKfX7TFgnQa4oViNajdW6TuUzHhayrvA)  
+HowTo Video  
+Learning Cycle PPT  
 
 **Software Requirements**
 
